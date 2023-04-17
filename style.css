@@ -101,10 +101,33 @@ section{
    border: 1px solid #ff7b00;
 }
 .fon{
-   background-color: #5c5c5c;
    width: 180px;
    height: 220px;
    margin: 0 auto;
+}
+.fon1{
+   background-image: url(./img/1.jpg);
+   background-position: center;
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+.fon2{
+   background-image: url(./img/2.jpg);
+   background-position: center;
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+.fon3{
+   background-image: url(./img/3.jpg);
+   background-position: center;
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+.fon4{
+   background-image: url(./img/4.jpg);
+   background-position: center;
+   background-size: contain;
+   background-repeat: no-repeat;
 }
 .price{
    text-align: center;
